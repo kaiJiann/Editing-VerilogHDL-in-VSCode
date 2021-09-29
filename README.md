@@ -1,4 +1,4 @@
-# Editing-Verilog-HDL-in-VS-Code 配置 VS Code 的 Verilog 开发环境
+# Editing VerilogHDL in VSCode 配置 VS Code 的 Verilog 开发环境
 
 ## 安装与配置的插件
 - [Vrilog HDL](https://link.zhihu.com/?target=https%3A//marketplace.visualstudio.com/) 实现语法高亮等，并且是安装其他拓展的基础。
